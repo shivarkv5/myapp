@@ -7,6 +7,12 @@ a {
     color: #00B7FF;
 }
 
+h1 {
+    text-align: center;
+    color: rgb(0, 136, 199);
+}
+
 p {
-    font-family: sans-serif;
+    text-align: center;
+    color: coral;
 }
